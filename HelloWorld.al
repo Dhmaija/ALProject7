@@ -12,6 +12,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
         Message('This First Code for Get Hib Testing@@@@');
         Message('This added New code in existing');
         Message('Call me this time');
+        Message('This should');
 
     end;
 }
