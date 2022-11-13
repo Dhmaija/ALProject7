@@ -9,5 +9,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world!!!');
         Message('This First Code for Get Hib Testing');
+        Message('This First Code for Get Hib Testing@@@@');
+        Message('This added New code in existing');
+
     end;
 }
